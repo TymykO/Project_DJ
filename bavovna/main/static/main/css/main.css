@@ -1,0 +1,21 @@
+body {
+    background: #white;
+}
+
+aside {
+    float: left;
+    background: #FAFAFA;
+    width: 20%;
+    padding: 2.5%
+    height: 100vh
+    color: #101010;
+    border-right: 5px solid #4d4d4d;
+}
+
+aside . logo {
+    font-size: 40px;
+    margin-left: 10px;
+    font-weight: bold;
+    position: relative;
+    top: -5px;
+}
